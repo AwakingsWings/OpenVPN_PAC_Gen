@@ -9,4 +9,4 @@
 运行gen.py,需要python3
 
 # Step 3
-将其复制到.ovpn客户端中，并删除block-outside-dns（如果openvpn版本较低，可能还需要添加
+将其复制到.ovpn客户端中，并删除block-outside-dns（如果openvpn版本较低，可能还需要添加 max-routes 8000
